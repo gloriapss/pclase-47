@@ -1,2 +1,1 @@
-# pclase-47
-proyecto
+# DiverProyect

@@ -1,0 +1,23 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: #CEF6F5;
+}
+canvas{
+  border: 2px solid black;
+}
+
+h2 {color:blue; 
+  font-size:40px;
+  font-family:Delight Candles;
+  font-weight:bold;
+  font-style:italic;
+  line-height:30px;
+  letter-spacing:5px;
+  text-decoration:underline;
+  text-transform:capitalize;
+  text-align:left;
+  text-indent:30px;
+  
+  
+ }
