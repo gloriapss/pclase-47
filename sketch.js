@@ -13,13 +13,13 @@ var diver, diver1, diver2, diver3, diver4;
 var track, diver1_img, diver2_img, diver3_img, diver4_img;
 
 function preload(){
-  track = loadImage("../images/Mar2.jpg");
-  diver1_img = loadImage("../imagenes/Buzo1.png");
-  diver2_img = loadImage("../imagenes/Buzo2.png");
-  diver3_img = loadImage("../imagenes/Buzo3.png");
-  diver4_img = loadImage("../imagenes/Buzo4.png");
-  nau_img = loadImage("../images/Naufragio.png");
-  //ground = loadImage("../images/ground.png");
+  track = loadImage("images/Mar2.jpg");
+  diver1_img = loadImage("imagenes/Buzo1.png");
+  diver2_img = loadImage("imagenes/Buzo2.png");
+  diver3_img = loadImage("imagenes/Buzo3.png");
+  diver4_img = loadImage("imagenes/Buzo4.png");
+  nau_img = loadImage("images/Naufragio.png");
+  //ground = loadImage("/images/ground.png");
   
 }
 
